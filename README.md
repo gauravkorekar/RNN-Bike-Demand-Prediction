@@ -45,7 +45,7 @@ RNN BIKE DEMAND/
 1. Install dependencies
   pip install -r requirements.txt
 2. Run training
-  python main.py
+  bike.ipynb 
 
 **Evaluation Metric**
   RMSE (Root Mean Squared Error)
